@@ -1,0 +1,9 @@
+Extract the "Hi-Res Cards.zip" from https://drive.google.com/drive/u/0/folders/0BzpR1-5sN2wAVE9kYWZsOVZsX1k and place the 
+contents of the "AE" folder here EXCEPT for the blitz card and the card back. 
+
+You should end up with the following set of AE cards in the folder:
+
+Green 1 - Green 6
+Red 1 - Red 6
+Gold 1 - Gold 6
+Blue 1 - Blue 6
