@@ -1,4 +1,0 @@
-Extract the "Hi-Res Cards.zip" from https://drive.google.com/drive/u/0/folders/0BzpR1-5sN2wAVE9kYWZsOVZsX1k and place the 
-contents of the "Mission" folder here (including folder structure). 
-
-You should end up with a folder for each mission set. Each of which will contain front and back images for all cards in the set.

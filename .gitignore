@@ -28,3 +28,5 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+/Assets/RAEV2 Assets/Resources
+/Assets/RAEV2 Assets/Resources.meta

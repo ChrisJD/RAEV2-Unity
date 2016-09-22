@@ -2,14 +2,18 @@ This is a helper app for playing the RAEV2 (RedJak's Automated Emperor Variant V
 https://boardgamegeek.com/thread/1500314/redjaks-automated-emperor-variant-v2
 
 
+I didn't want to redistribute all the cards in the Github repository so this project won't build in Unity without adding the cards.
+To build the project (you'll need Unity 5.4) you will need to get the cards from the Google Drive folder linked from the above 
+threads first post. Then place them in the folders as follows:
 
-To build the project you will need to get the cards from the Google Drive folder linked from the above threads first post.
-Then place them in the folders as follows:
+Create the following folders as needed "Assets\RAEV2 Assets\Resources\Mission" and "Assets\RAEV2 Assets\Resources\AE" 
+(Resources, Mission and AE should need creating), then:
 
 Extract the "Hi-Res Cards.zip" from https://drive.google.com/drive/u/0/folders/0BzpR1-5sN2wAVE9kYWZsOVZsX1k 
 
-Place the contents of the "Mission" folder in "Assets\RAEV2 Assets\Resources\Mission" (including folder structure). 
+Place the contents of the "Mission" folder from the zip in in "Assets\RAEV2 Assets\Resources\Mission" (including folder structure). 
 You should end up with a folder for each mission set. Each of which will contain front and back images for all cards in the set.
+See the cardImageDirectoryStructure.jpg in the root of the repo for how it should look.
 
 Place the contents of the "AE" folder in "Assets\RAEV2 Assets\Resources\AE" EXCEPT for the blitz card and the card back. 
 You should end up with the following set of AE cards in the folder:
